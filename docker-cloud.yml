@@ -1,0 +1,4 @@
+hellonagesh:
+  image: dockercloud/hello-nagesh
+  ports:
+    - "80:80"
